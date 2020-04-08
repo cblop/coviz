@@ -25,6 +25,8 @@ CREATE TABLE
 COPY 14168
 ```
 
+## Open a REPL and visualise the data
+
 Now we're ready to roll! No need to run a server, we're just going to use the REPL. Start your favourite one now.
 
 In the case of emacs, open up `src/coviz/app.clj` and run `M-x cider-jack-in` to start a REPL.
